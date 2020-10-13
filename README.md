@@ -68,3 +68,9 @@ You can find the dependency list in the package.json.
 * Implement the project scenario highlighted above
 * Have the relevant test cases to ensure functionality
 * Take advantage of angular's routing to display content
+
+## Submission
+
+We prefer to have your submission via [Pull Request][1] which will demonstrate your git practice. Alternatively you can also submit via email or cloud storage.
+
+[1]: https://github.com/pos-my/angular-interview/pulls
